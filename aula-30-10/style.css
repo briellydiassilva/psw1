@@ -3,28 +3,41 @@ body{
     background-color: rgb(182, 182, 181);
 }
 p{
-    background-color: yellow;
+    background-color: pink;
 }
 
 .c1{
-    background-color: blue;
+    background-color:rgb(207, 125, 180);
     text-align: center;
     color:white;
 }
 
 #id{
-    background-color: aqua;
+    background-color: rgb(255, 0, 242);
     text-align: end;
-    color: blueviolet;
+    color: rgb(226, 192, 220);
 }
 
 div{
     display: inline-flex;
-    background-color: rgb(0, 51, 51);
-    height: 500px;
-    width: 430px;
-    border: 15px solid black;
-    border-radius: 15px;
-    margin: 15px;
-    padding: 15px;
+    background-color: rgb(96, 168, 168);
+    height: 0px;
+    width: 0px;
+    color: rgb(182, 182, 181)
 }
+
+table, th, td {
+    border: 10px solid black;
+  }
+
+  img{
+    display: inline-flex;
+    width: 750px;
+    height: 550px;
+background-color: rgb(231, 0, 0);
+  }
+
+  a{
+    background-color: black;
+    border-radius: 15px;
+  }
